@@ -6,11 +6,11 @@ URL: http://homepages.di.fc.ul.pt/~vv/papers/vasconcelos_fundamental-sessions.pd
 
 Dependencies
 
- To Run Examples From Terminal
+1. To Run Examples From Terminal
   * pip install pyparsing
   * pip install xmltotree
 
-- To Run From IPython Notebook
+2. To Run From IPython Notebook
   * pip install ipython
   * ipython notebook
 
